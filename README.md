@@ -1,2 +1,13 @@
 # API_Escola_Django_REST
-Api de uma escola utilizando as ferramentas do Django REST Framework
+### Projeto
+API de uma escola utilizando os recursos do framework REST
+
+
+Desenvolvido com base no curso de Django Rest Framework da Alura
+
+
+> :construction: Projeto em construção :construction:
+
+
+
+
